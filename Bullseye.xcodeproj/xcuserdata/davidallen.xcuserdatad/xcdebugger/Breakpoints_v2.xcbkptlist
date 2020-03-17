@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8F09AB53-70F3-4DC7-8377-DD3599673B03"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF15AE89-B46A-41BF-B2A1-E0661617A10C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bullseye/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "BF15AE89-B46A-41BF-B2A1-E0661617A10C - c9f453fb88ba73e9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.LabelStyle&gt;, SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.ValueStyle&gt;)&gt;&gt;, SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.LabelStyle&gt;, SwiftUI.Slider&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.LabelStyle&gt;)&gt;&gt;, SwiftUI.Spacer, SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.background&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Bullseye.ContentView.Shadow&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in Bullseye.ContentView.body.getter : some"
+                  moduleName = "Bullseye"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidallen/Projects/Training/Bullseye/Bullseye/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "884">
+               </Location>
+               <Location
+                  uuid = "BF15AE89-B46A-41BF-B2A1-E0661617A10C - a870c189217c8d0d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.LabelStyle&gt;, SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.ValueStyle&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.LabelStyle&gt;, SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.ValueStyle&gt;)&gt;&gt;, SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.LabelStyle&gt;, SwiftUI.Slider&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.LabelStyle&gt;)&gt;&gt;, SwiftUI.Spacer, SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.background&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Bullseye.ContentView.Shadow&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in Bullseye.ContentView.body.getter : some"
+                  moduleName = "Bullseye"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidallen/Projects/Training/Bullseye/Bullseye/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "125">
+               </Location>
+               <Location
+                  uuid = "BF15AE89-B46A-41BF-B2A1-E0661617A10C - a870c189217c8d0d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.LabelStyle&gt;, SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.ValueStyle&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.LabelStyle&gt;, SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.ValueStyle&gt;)&gt;&gt;, SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.LabelStyle&gt;, SwiftUI.Slider&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, SwiftUI.ModifiedContent&lt;SwiftUI.Text, Bullseye.ContentView.LabelStyle&gt;)&gt;&gt;, SwiftUI.Spacer, SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.background&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Bullseye.ContentView.Shadow&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in Bullseye.ContentView.body.getter : some"
+                  moduleName = "Bullseye"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidallen/Projects/Training/Bullseye/Bullseye/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "1505">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
